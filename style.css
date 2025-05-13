@@ -26,6 +26,9 @@ main{
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
 }
+main > h2{
+    margin-left: -20px;
+}
 header{
         background-image: linear-gradient(to bottom,rgb(65, 149, 90),rgb(65, 158, 90),rgb(65, 169, 90),rgb(65, 174, 90));
         text-align: center;
